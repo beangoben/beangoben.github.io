@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Tanzi on Benjamin Sanchez-Lengeling</title>
+    <link>https://beangoben.github.io/authors/r-tanzi/</link>
+    <description>Recent content in R Tanzi on Benjamin Sanchez-Lengeling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019</copyright>
+    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://beangoben.github.io/authors/r-tanzi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Pathway Coexpression Network: Revealing pathway relationships</title>
+      <link>https://beangoben.github.io/publication/pcxn/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://beangoben.github.io/publication/pcxn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
